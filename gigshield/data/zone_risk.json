@@ -1,0 +1,136 @@
+{
+  "zones": {
+    "Delhi": {
+      "Rohini": {
+        "waterlog_score": 7,
+        "aqi_percentile": 0.85
+      },
+      "Dwarka": {
+        "waterlog_score": 6,
+        "aqi_percentile": 0.75
+      },
+      "Connaught Place": {
+        "waterlog_score": 4,
+        "aqi_percentile": 0.65
+      },
+      "Noida Border": {
+        "waterlog_score": 8,
+        "aqi_percentile": 0.9
+      },
+      "Saket": {
+        "waterlog_score": 3,
+        "aqi_percentile": 0.55
+      }
+    },
+    "Mumbai": {
+      "Andheri": {
+        "waterlog_score": 8,
+        "aqi_percentile": 0.7
+      },
+      "Bandra": {
+        "waterlog_score": 5,
+        "aqi_percentile": 0.5
+      },
+      "Dharavi": {
+        "waterlog_score": 9,
+        "aqi_percentile": 0.8
+      },
+      "Worli": {
+        "waterlog_score": 4,
+        "aqi_percentile": 0.45
+      },
+      "Kurla": {
+        "waterlog_score": 9,
+        "aqi_percentile": 0.75
+      }
+    },
+    "Hyderabad": {
+      "HITEC City": {
+        "waterlog_score": 8,
+        "aqi_percentile": 0.88
+      },
+      "Jubilee Hills": {
+        "waterlog_score": 2,
+        "aqi_percentile": 0.3
+      },
+      "Secunderabad": {
+        "waterlog_score": 5,
+        "aqi_percentile": 0.6
+      },
+      "Kukatpally": {
+        "waterlog_score": 7,
+        "aqi_percentile": 0.72
+      },
+      "Mehdipatnam": {
+        "waterlog_score": 6,
+        "aqi_percentile": 0.65
+      }
+    },
+    "Chennai": {
+      "Tambaram": {
+        "waterlog_score": 6,
+        "aqi_percentile": 0.55
+      },
+      "Adyar": {
+        "waterlog_score": 4,
+        "aqi_percentile": 0.35
+      },
+      "Anna Nagar": {
+        "waterlog_score": 3,
+        "aqi_percentile": 0.3
+      },
+      "Perambur": {
+        "waterlog_score": 7,
+        "aqi_percentile": 0.65
+      },
+      "Velachery": {
+        "waterlog_score": 8,
+        "aqi_percentile": 0.6
+      }
+    },
+    "Bengaluru": {
+      "Whitefield": {
+        "waterlog_score": 5,
+        "aqi_percentile": 0.55
+      },
+      "Koramangala": {
+        "waterlog_score": 4,
+        "aqi_percentile": 0.4
+      },
+      "Marathahalli": {
+        "waterlog_score": 7,
+        "aqi_percentile": 0.65
+      },
+      "HSR Layout": {
+        "waterlog_score": 3,
+        "aqi_percentile": 0.35
+      },
+      "Yeshwanthpur": {
+        "waterlog_score": 6,
+        "aqi_percentile": 0.6
+      }
+    },
+    "Kolkata": {
+      "Dum Dum": {
+        "waterlog_score": 8,
+        "aqi_percentile": 0.8
+      },
+      "Salt Lake": {
+        "waterlog_score": 6,
+        "aqi_percentile": 0.6
+      },
+      "Park Street": {
+        "waterlog_score": 5,
+        "aqi_percentile": 0.55
+      },
+      "Howrah": {
+        "waterlog_score": 9,
+        "aqi_percentile": 0.85
+      },
+      "New Town": {
+        "waterlog_score": 4,
+        "aqi_percentile": 0.45
+      }
+    }
+  }
+}

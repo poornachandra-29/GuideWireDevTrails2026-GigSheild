@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+gigshield.db
+
+# Node
+node_modules/
+dist/
+.env
+
+# Misc
+.DS_Store
+.vscode/
+
+*_BACKUP/
+node_modules/
+.env
+.env.example
+guidewire/
+*.db

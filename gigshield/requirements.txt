@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+redis
+celery
+celery[redis]
+httpx
+twilio
+razorpay
+xgboost
+scikit-learn
+shap
+pandas
+numpy
+faker
+python-multipart
+python-dotenv
+# psycopg2-binary omitted for pure SQLite fallback on Windows
