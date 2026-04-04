@@ -120,7 +120,7 @@ export default function Onboarding() {
         <div className="p-8 pb-0">
            <div className="flex justify-between items-center mb-8">
               <div>
-                <h1 className="text-3xl font-extrabold text-white tracking-tight">Gig<span className="text-blue-500">Shield</span></h1>
+                <h1 className="text-3xl font-extrabold text-white tracking-tight">Seguro<span className="text-blue-500"> Partner</span></h1>
                 <p className="text-[10px] uppercase tracking-[0.2em] text-slate-500 font-bold">Parametric Protection</p>
               </div>
               <div className="text-right">

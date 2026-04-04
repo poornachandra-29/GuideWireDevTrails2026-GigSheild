@@ -7,7 +7,7 @@ from app.database import engine, Base
 from app.models import worker, policy as policy_model, payout, trigger_event, dispute
 
 app = FastAPI(
-    title="GigShield API",
+    title="Seguro Partner API",
     description="Parametric Income Protection for Delivery Partners",
     version="1.0.0"
 )
@@ -35,4 +35,4 @@ async def startup():
 
 @app.get("/health")
 def health_check():
-    return {"status": "ok", "service": "GigShield API"}
+    return {"status": "ok", "service": "Seguro Partner API"}

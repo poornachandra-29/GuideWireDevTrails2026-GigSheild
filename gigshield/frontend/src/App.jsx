@@ -12,7 +12,7 @@ function App() {
     <BrowserRouter>
       <div className="min-h-screen flex flex-col items-center">
         <header className="w-full glass-dark p-4 text-white font-bold text-center shadow sticky top-0 z-50 tracking-wide">
-          ⛱️ GigShield — Parametric Income Protection
+          ⛱️ Seguro Partner — Parametric Income Protection
         </header>
         <div className="w-full p-4 mt-6">
           <Routes>

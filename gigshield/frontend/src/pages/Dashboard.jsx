@@ -135,8 +135,8 @@ export default function Dashboard() {
       {/* Real-time Status Header */}
       <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-4 animate-in fade-in slide-in-from-top-4 duration-1000">
         <div>
-          <h1 className="text-4xl font-black text-white tracking-tighter">
-            GIG<span className="text-blue-500 text-glow">SHIELD</span> DASHBOARD
+          <h1 className="text-4xl font-black text-white tracking-tighter uppercase">
+            SEGURO <span className="text-blue-500 text-glow">PARTNER</span> DASHBOARD
           </h1>
           <div className="flex items-center gap-3 mt-2">
             <span className="flex items-center gap-2 px-2 py-1 bg-green-500/10 border border-green-500/20 rounded-lg text-[9px] font-black text-green-400 uppercase tracking-widest">

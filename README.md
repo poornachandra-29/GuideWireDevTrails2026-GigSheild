@@ -1,7 +1,7 @@
 # GuideWireDevTrails2026-GigSheild
 <div align="center">
 
-# 🛡️ GigShield by team Tech Seguro
+# 🛡️ Seguro Partner by team Tech Seguro
 ### AI-Powered Parametric Income Protection for Food Delivery Partners
 
 *Built exclusively for Zomato & Swiggy delivery partners*
@@ -41,7 +41,7 @@
 13. [API Reference](#12-api-reference)
 14. [Build Timeline](#13-build-timeline)
 15. [Demo Flow](#14-demo-flow)
-16. [Why GigShield Wins](#15-why-gigshield-wins)
+16. [Why Seguro Partner Wins](#15-why-seguro-Partner-wins)
 
 
 ---
@@ -50,7 +50,7 @@
 
 | 📌 Field | 📝 Detail |
 |---|---|
-| **Project Name** | GigShield |
+| **Project Name** | Seguro Partner |
 | **Subtitle** | AI-Powered Parametric Income Protection for Food Delivery Partners |
 | **Target Users** | Zomato & Swiggy 2-wheeler delivery partners only |
 | **Insurance Type** | Parametric — performance-linked payout based on previous week earnings |
@@ -73,7 +73,7 @@
 
 ## 1. 🚨 The Problem
 
-> **We are building GigShield exclusively for Zomato and Swiggy food delivery partners — 2-wheeler riders who earn their living delivering food orders across Indian cities.**
+> **We are building Seguro Partner exclusively for Zomato and Swiggy food delivery partners — 2-wheeler riders who earn their living delivering food orders across Indian cities.**
 
 India has **12 million gig workers today**, projected to reach **23.5 million by 2030**. The majority are food delivery partners on Zomato and Swiggy, earning ₹600–₹900 per day.
 
@@ -107,21 +107,21 @@ A Zomato or Swiggy delivery partner in Delhi earns by completing food orders. He
 
 ## 2. ✅ Our Solution
 
-**GigShield is a parametric income protection platform built exclusively for Zomato and Swiggy delivery partners.**
+**Seguro Partner is a parametric income protection platform built exclusively for Zomato and Swiggy delivery partners.**
 
 It works like this:
-- 🌐 GigShield monitors government data (CPCB for AQI, IMD for weather) every 15 minutes
+- 🌐 Seguro Partner monitors government data (CPCB for AQI, IMD for weather) every 15 minutes
 - ⚡ When conditions become extreme enough to disrupt deliveries, a trigger activates automatically
 - 📊 The system looks at what the worker earned in the **previous weeks** vs what they earned during the trigger week — and calculates the actual income they lost
 - 💰 A personalised payout is sent to their UPI within 4 hours — zero paperwork, zero claim form
 
 ### 🌟 The Big Innovation — Previous Week Performance Drives the Payout
 
-> **This is the most important feature of GigShield. The payout is NOT a flat fixed amount. It is calculated based on what the delivery partner specifically earned in the previous 4 weeks compared to what they earned during the disruption week.**
+> **This is the most important feature of Seguro Partner. The payout is NOT a flat fixed amount. It is calculated based on what the delivery partner specifically earned in the previous 4 weeks compared to what they earned during the disruption week.**
 
 Most insurance says: *"AQI triggered → everyone gets ₹1,200."*
 
-GigShield says: *"Ravi earned ₹5,100 last 4 weeks on average. This trigger week he only earned ₹2,600. He lost ₹2,500. His payout is 75% of that loss = ₹1,875 — plus zone and consistency adjustments."*
+Seguro Partner says: *"Ravi earned ₹5,100 last 4 weeks on average. This trigger week he only earned ₹2,600. He lost ₹2,500. His payout is 75% of that loss = ₹1,875 — plus zone and consistency adjustments."*
 
 This means:
 - 🎯 A full-time Zomato rider in Delhi who lost ₹2,500 gets a bigger payout than
@@ -132,7 +132,7 @@ This means:
 
 ## 3. 📋 Scope & Boundaries
 
-### ✅ What GigShield Covers
+### ✅ What Seguro Partner Covers
 
 - 🛵 Zomato and Swiggy food delivery partners on 2-wheelers — **this is the only persona**
 - 📆 Weekly policy creation and automatic Monday renewal
@@ -144,7 +144,7 @@ This means:
 - 📱 Worker portal and platform admin dashboard
 - 📈 Analytics with 5 panels including retention proof for platforms
 
-### ❌ What GigShield Does NOT Cover
+### ❌ What Seguro Partner Does NOT Cover
 
 - 🚫 Health insurance, life insurance, or accident coverage
 - 🚫 Vehicle repair or damage to the bike
@@ -164,7 +164,7 @@ This means:
 
 ## 4. 👤 Persona — Who We Build For
 
-> **GigShield is built for exactly two types of users. No one else.**
+> **Seguro Partner is built for exactly two types of users. No one else.**
 
 ### 🛵 Primary Persona: The Food Delivery Partner
 
@@ -175,7 +175,7 @@ This means:
 - 🔴 Bad AQI/rain days: ₹0/day × 8 days = ₹0 lost
 - 💰 Monthly income gap from disruptions: ₹6,800 with zero protection
 
-**What Ravi needs from GigShield:**
+**What Ravi needs from Seguro Partner:**
 - ⏱️ Enroll in under 2 minutes on his basic Android phone
 - 📲 Never file a claim — money arrives automatically
 - 💵 Get a payout that reflects what HE specifically lost, not a flat generic number
@@ -200,19 +200,19 @@ This means:
 
 **📝 Step 1 — One-time enrollment (under 2 minutes)**
 
-The rider opens GigShield on their phone, logs in with their phone number and OTP, completes Aadhaar verification, confirms their city via GPS, links their UPI account, and enters their Zomato or Swiggy Worker ID. Policy is created instantly. SMS arrives: *"You're covered. Policy GS-ZMT-2026-00291 active."*
+The rider opens Seguro Partner on their phone, logs in with their phone number and OTP, completes Aadhaar verification, confirms their city via GPS, links their UPI account, and enters their Zomato or Swiggy Worker ID. Policy is created instantly. SMS arrives: *"You're covered. Policy GS-ZMT-2026-00291 active."*
 
 ---
 
 **📦 Step 2 — Normal working weeks**
 
-The rider delivers food as usual. GigShield silently builds a rolling 4-week earnings baseline from Zomato or Swiggy's weekly settlement data. This baseline is the foundation of every future payout calculation. The rider does nothing.
+The rider delivers food as usual. Seguro Partner silently builds a rolling 4-week earnings baseline from Zomato or Swiggy's weekly settlement data. This baseline is the foundation of every future payout calculation. The rider does nothing.
 
 ---
 
 **⚡ Step 3 — Trigger event fires (automatic)**
 
-At 8:15 AM on a Wednesday, CPCB reports AQI 318 in Hyderabad. GigShield's monitoring system detects this automatically. The system immediately finds all active Zomato and Swiggy riders in Hyderabad with Shield or Pro plans. The rider receives an SMS: *"AQI alert — your advance payout is being processed."*
+At 8:15 AM on a Wednesday, CPCB reports AQI 318 in Hyderabad. Seguro Partner's monitoring system detects this automatically. The system immediately finds all active Zomato and Swiggy riders in Hyderabad with Shield or Pro plans. The rider receives an SMS: *"AQI alert — your advance payout is being processed."*
 
 ---
 
@@ -224,7 +224,7 @@ At 8:15 AM on a Wednesday, CPCB reports AQI 318 in Hyderabad. GigShield's monito
 
 **🧮 Step 5 — Phase 2 final settlement (Day 7)**
 
-At the end of the trigger week, GigShield pulls the rider's actual earnings for that week from the Zomato or Swiggy platform API. It compares this to the 4-week average baseline. It calculates the exact income gap and applies the payout formula. The balance is credited to UPI. SMS arrives: *"Your income protection payout: ₹2,437. Credited to your UPI."*
+At the end of the trigger week, Seguro Partner pulls the rider's actual earnings for that week from the Zomato or Swiggy platform API. It compares this to the 4-week average baseline. It calculates the exact income gap and applies the payout formula. The balance is credited to UPI. SMS arrives: *"Your income protection payout: ₹2,437. Credited to your UPI."*
 
 ---
 
@@ -236,7 +236,7 @@ Every Monday, the policy renews automatically. The premium is recalculated based
 
 ### 🔁 The Trigger Pipeline (What Happens Behind the Scenes)
 
-Every 15 minutes, GigShield's background system polls the CPCB API for AQI readings and the IMD API for weather across all active cities.
+Every 15 minutes, Seguro Partner's background system polls the CPCB API for AQI readings and the IMD API for weather across all active cities.
 
 If any reading crosses a threshold, the system creates a trigger event and immediately runs an eligibility query to find all Zomato and Swiggy riders in that city with an active policy covering that trigger type, who have at least 4 weeks of earnings history, and who have made at least one delivery in the past 7 days.
 
@@ -263,7 +263,7 @@ The rider enters their phone number and receives an OTP via SMS. Verified instan
 ---
 
 **🪪 Step 2 — Aadhaar e-KYC**
-The rider enters their Aadhaar number. GigShield verifies it against the UIDAI API (mocked in demo). PAN is cross-checked. The name is fuzzy-matched with over 85% similarity. Age must be 18–65 years.
+The rider enters their Aadhaar number. Seguro Partner verifies it against the UIDAI API (mocked in demo). PAN is cross-checked. The name is fuzzy-matched with over 85% similarity. Age must be 18–65 years.
 *Why: IRDAI legally requires KYC before insurance can be issued. Aadhaar is universal for gig workers. It is stored only as a secure one-way hash — never in readable form.*
 
 ---
@@ -275,13 +275,13 @@ GPS automatically detects the rider's city. The rider confirms on screen. A 30km
 ---
 
 **💳 Step 4 — UPI Account Linking**
-The rider enters their UPI ID. GigShield sends ₹1 to that account via Razorpay penny drop. The rider confirms receipt. The account is validated and locked as the payout destination.
+The rider enters their UPI ID. Seguro Partner sends ₹1 to that account via Razorpay penny drop. The rider confirms receipt. The account is validated and locked as the payout destination.
 *Why: One wrong UPI address on payout day destroys a rider's trust permanently. Validation at enrollment eliminates this risk.*
 
 ---
 
 **🔗 Step 5 — Platform Linking (Zomato or Swiggy)**
-The rider enters their Zomato or Swiggy Worker ID. GigShield calls the platform's mock API to verify the rider is active and their city matches.
+The rider enters their Zomato or Swiggy Worker ID. Seguro Partner calls the platform's mock API to verify the rider is active and their city matches.
 *Why: This links the earnings baseline data pipeline. Without this link, performance-linked payouts cannot be calculated.*
 
 **✅ Output:** Policy created. GIC Re mock countersignature applied. SMS and PDF policy schedule sent to the rider immediately.
@@ -290,7 +290,7 @@ The rider enters their Zomato or Swiggy Worker ID. GigShield calls the platform'
 
 ### 🤖 Feature 2 — AI-Powered Risk Profiling
 
-> **Why this matters:** Two Zomato riders — one in Delhi in October, one in Chennai in March — have completely different chances of receiving a payout this week. Without profiling each worker individually, GigShield would overcharge one and undercharge the other, making the platform financially unsustainable.
+> **Why this matters:** Two Zomato riders — one in Delhi in October, one in Chennai in March — have completely different chances of receiving a payout this week. Without profiling each worker individually, Seguro Partner would overcharge one and undercharge the other, making the platform financially unsustainable.
 
 **Risk profiling measures three things about every rider:**
 
@@ -330,7 +330,7 @@ How exposed is this specific rider when a trigger fires?
 | Vehicle type | 4-wheeler (partial shelter) | 2-wheeler (fully exposed) |
 | Shift timing | Night shift only | Day shift in peak AQI/heat hours |
 
-*Note: GigShield is built only for Zomato and Swiggy food delivery — both platforms primarily use 2-wheelers, so this dimension mostly reflects delivery volume and shift patterns.*
+*Note: Seguro Partner is built only for Zomato and Swiggy food delivery — both platforms primarily use 2-wheelers, so this dimension mostly reflects delivery volume and shift patterns.*
 
 ---
 
@@ -387,7 +387,7 @@ A score of 61–100 means high risk — a Delhi full-time rider in October on a 
 
 ### 📊 Feature 4 — Performance-Linked Payout (Based on Previous Week's Work)
 
-> **This is the heart of GigShield. The payout is not a flat fixed amount. It is calculated from how much the rider earned in the previous 4 weeks compared to how much they earned during the trigger week. The difference is the income they lost. GigShield covers a percentage of that loss.**
+> **This is the heart of Seguro Partner. The payout is not a flat fixed amount. It is calculated from how much the rider earned in the previous 4 weeks compared to how much they earned during the trigger week. The difference is the income they lost. Seguro Partner covers a percentage of that loss.**
 
 **Why previous week performance?**
 - ✅ It reflects what the rider actually lost — not an assumed generic amount
@@ -399,7 +399,7 @@ A score of 61–100 means high risk — a Delhi full-time rider in October on a 
 
 **📈 Step 1 — Baseline Earnings (built from previous 4 weeks)**
 
-Every Monday, GigShield pulls the rider's weekly settlement data from Zomato or Swiggy's API and computes a rolling 4-week average:
+Every Monday, Seguro Partner pulls the rider's weekly settlement data from Zomato or Swiggy's API and computes a rolling 4-week average:
 
 For example, Ravi's last 4 weeks on Zomato:
 - Week 1: ₹4,900
@@ -511,13 +511,13 @@ Actual earnings data arrives from Zomato or Swiggy API. The final payout is calc
 
 ### 🛡️ Feature 5 — Intelligent Fraud Detection
 
-> **Why this matters:** Without fraud prevention, bad actors would enroll, fake their location, and collect payouts. GigShield has 5 layers of protection — starting with the most powerful one, which requires no technology at all.
+> **Why this matters:** Without fraud prevention, bad actors would enroll, fake their location, and collect payouts. Seguro Partner has 5 layers of protection — starting with the most powerful one, which requires no technology at all.
 
 ---
 
 **🏗️ Layer 1 — Structural Protection (Parametric Design)**
 
-Since GigShield's triggers are based on external government data from CPCB and IMD — not on what the rider reports — **90% of traditional insurance fraud is impossible by design.**
+Since Seguro Partner's triggers are based on external government data from CPCB and IMD — not on what the rider reports — **90% of traditional insurance fraud is impossible by design.**
 
 A Zomato or Swiggy rider cannot:
 - 📡 Fake that AQI was above 300 — CPCB is the source, not the rider
@@ -558,7 +558,7 @@ The rider's device is also fingerprinted at enrollment — the combination of th
 
 **🤖 Layer 5 — ML Anomaly Detection**
 
-GigShield uses an Isolation Forest machine learning model to score every claim from 0 to 100. This model was trained on historical claim patterns and looks for statistical outliers — things that are unusual when compared to the rest of the population.
+Seguro Partner uses an Isolation Forest machine learning model to score every claim from 0 to 100. This model was trained on historical claim patterns and looks for statistical outliers — things that are unusual when compared to the rest of the population.
 
 The model considers the following signals: how many claims the rider has made in the past 7 days, the GPS distance from their registered city on trigger day, whether the device matches the enrollment device, how old the account was when the first claim was made, whether the payout amount is unusually high compared to peers in the same city, and whether the rider appears on multiple platforms with the same Aadhaar.
 
@@ -574,7 +574,7 @@ The model considers the following signals: how many claims the rider has made in
 
 **🛡️ Advanced Strategy: GPS Spoofing Prevention**
 
-To maintain parametric integrity, GigShield implements a **Tactical GPS Dovetail** mechanism:
+To maintain parametric integrity, Seguro Partner implements a **Tactical GPS Dovetail** mechanism:
 
 -   **Multi-Point Verification**: The platform cross-references the rider's reported GPS with the Zomato/Swiggy delivery pings and the local sensor network.
 -   **Velocity Analysis**: If a rider jumps 20km in under 2 minutes (a common spoofing behavior), the payout is instantly locked for manual audit.
@@ -630,7 +630,7 @@ Claims blocked this week with total rupee value saved. Fraud score distribution 
 This is the most important panel for Zomato and Swiggy. It shows a retention curve comparing covered riders vs uncovered riders over 20 weeks. Covered: 90% still active at 20 weeks. Uncovered: 65% still active. Estimated churn cost saved per month per platform. This is the ROI proof that keeps Zomato paying ₹40/week.
 
 **🔮 Panel 5 — Predictive Alerts**
-"Delhi: 68% chance of AQI trigger on Thursday and Friday. Estimated surcharge for your Zomato fleet: ₹18.4L." This allows platforms to budget for upcoming surcharges and allows GigShield to pre-fund the payout pool before the event hits.
+"Delhi: 68% chance of AQI trigger on Thursday and Friday. Estimated surcharge for your Zomato fleet: ₹18.4L." This allows platforms to budget for upcoming surcharges and allows Seguro Partner to pre-fund the payout pool before the event hits.
 
 ---
 
@@ -767,7 +767,7 @@ Zomato receives this alert on Tuesday: *"Delhi: 71% AQI trigger probability Thur
 
 🔐 **Aadhaar hashing:** The rider's Aadhaar number is converted to a one-way SHA-256 hash immediately on receipt. The original number is never written to the database. This means even if the database were compromised, no Aadhaar number could be recovered.
 
-📝 **Append-only events table:** Trigger events can never be modified or deleted. This means no one — not even a system administrator — can retroactively change the record of when and where a trigger fired. This protects both riders and GigShield from disputes.
+📝 **Append-only events table:** Trigger events can never be modified or deleted. This means no one — not even a system administrator — can retroactively change the record of when and where a trigger fired. This protects both riders and Seguro Partner from disputes.
 
 🔗 **Payout table stores all formula factors:** Every multiplier, bonus, and ratio that went into a payout calculation is stored alongside the final amount. This means any rider can request a full explanation of how their payout was calculated.
 
@@ -804,7 +804,7 @@ A congestion index of 7 or above adds 10% to the payout. A congestion index of 4
 
 ### 🏢 Primary: B2B Platform-Funded
 
-Zomato and Swiggy pay GigShield **₹40 per rider per week** as a worker welfare benefit. The delivery partner pays ₹0.
+Zomato and Swiggy pay Seguro Partner **₹40 per rider per week** as a worker welfare benefit. The delivery partner pays ₹0.
 
 **Why would Zomato pay ₹40/week per rider?**
 
@@ -830,11 +830,11 @@ Zomato or Swiggy riders who want more coverage than their platform provides, or 
 | Expected payouts | ₹16,800 (42% average payout rate) |
 | Reinsurance cost | ₹3,200 (8% of premiums) |
 | Ops + tech + fraud | ₹3,200 |
-| **GigShield net margin** | **₹16,800 (42%)** |
+| **Seguro Partner net margin** | **₹16,800 (42%)** |
 
 ### 🏛️ Regulatory Structure
 
-GigShield operates as an IRDAI-licensed Insurance Broker and Aggregator. It builds the technology, acquires riders, manages triggers, and handles fraud. The actual insurance policy is underwritten by GIC Re or Digit Insurance — an IRDAI-licensed insurer who holds the statutory reserves and signs every policy. Munich Re or Swiss Re reinsures catastrophic losses above the pool's weekly threshold. This three-layer structure is fully compliant with IRDAI's 2023 Sandbox framework, which explicitly permits parametric index-based payouts without traditional loss assessment.
+Seguro Partner operates as an IRDAI-licensed Insurance Broker and Aggregator. It builds the technology, acquires riders, manages triggers, and handles fraud. The actual insurance policy is underwritten by GIC Re or Digit Insurance — an IRDAI-licensed insurer who holds the statutory reserves and signs every policy. Munich Re or Swiss Re reinsures catastrophic losses above the pool's weekly threshold. This three-layer structure is fully compliant with IRDAI's 2023 Sandbox framework, which explicitly permits parametric index-based payouts without traditional loss assessment.
 
 ---
 
@@ -904,10 +904,10 @@ Returns the current AQI and weather status for all 6 cities, showing whether eac
 ### 🧑‍💼 Admin Endpoints
 
 **POST /api/admin/roster**
-Zomato or Swiggy submits their updated active rider roster every Monday. GigShield validates, profiles, and creates or renews policies for all active riders.
+Zomato or Swiggy submits their updated active rider roster every Monday. Seguro Partner validates, profiles, and creates or renews policies for all active riders.
 
 **GET /api/admin/invoice/{week_start_date}**
-Returns the full invoice for the platform for that week: base premium per rider, event surcharges from any trigger events, GST, GigShield platform fee, and total due.
+Returns the full invoice for the platform for that week: base premium per rider, event surcharges from any trigger events, GST, Seguro Partner platform fee, and total due.
 
 **GET /api/admin/fraud/queue**
 Returns all claims currently in the manual review queue with fraud score, flag details, rider ID, event, and amount.
@@ -948,7 +948,7 @@ Submits an approve or block decision on a queued claim. Requires a reason for au
 
 ### 👤 Step 1 — Enroll a Zomato rider (60 seconds)
 
-Open GigShield on a phone browser. Enter phone 9876543210. OTP 482910 auto-fills in demo mode. Aadhaar is verified. City is detected as Hyderabad by GPS. UPI ravi.kumar@upi is validated via penny drop. Zomato Worker ID ZMT-00291 is linked — active and city-confirmed.
+Open Seguro Partner on a phone browser. Enter phone 9876543210. OTP 482910 auto-fills in demo mode. Aadhaar is verified. City is detected as Hyderabad by GPS. UPI ravi.kumar@upi is validated via penny drop. Zomato Worker ID ZMT-00291 is linked — active and city-confirmed.
 
 Policy created immediately:
 - 🎯 Risk Score: 78 (High — Hyderabad March heat season, 2-wheeler)
@@ -1031,7 +1031,7 @@ Zomato admin logs in and sees:
 - 12,840 riders × ₹40 base = ₹5,13,600
 - AQI event surcharge (3,216 riders): ₹43,800
 - GST 18%: ₹1,00,692
-- GigShield platform fee 3%: ₹17,049
+- Seguro Partner platform fee 3%: ₹17,049
 - **Total due: ₹6,75,141**
 
 📈 **Analytics — Retention proof:**
@@ -1045,9 +1045,9 @@ Zomato admin logs in and sees:
 
 ---
 
-## 17. 🏆 Why GigShield Wins
+## 17. 🏆 Why Seguro Partner Wins
 
-| 🔍 Dimension | 📋 Traditional Insurance | 📊 Flat Parametric | 🛡️ GigShield |
+| 🔍 Dimension | 📋 Traditional Insurance | 📊 Flat Parametric | 🛡️ Seguro Partner |
 |---|---|---|---|
 | Payout type | Manual loss assessment | Fixed flat for everyone | **Based on each rider's actual previous week earnings** |
 | Claim process | File a form → weeks of delay | Automatic | **Automatic, two-phase, zero rider action** |
@@ -1090,7 +1090,7 @@ Zomato admin logs in and sees:
 
 <div align="center">
 
-**🛡️ GigShield — Because Zomato and Swiggy delivery partners deserve a safety net**
+**🛡️ Seguro Partner — Because Zomato and Swiggy delivery partners deserve a safety net**
 
 *Built specifically for food delivery workers.*
 *Triggered by government data. Paid based on your actual previous week's work.*

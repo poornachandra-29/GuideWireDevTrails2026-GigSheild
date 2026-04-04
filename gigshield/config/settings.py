@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     jwt_expiry_hours: int = 24
     bcrypt_rounds: int = 12
     # DB
-    database_url: str = "sqlite:///./gigshield.db"
+    database_url: str = "sqlite:///./Seguro Partner.db"
     redis_url: str = "redis://localhost:6379/0"
     # App
     app_env: str = "development"
@@ -53,9 +53,9 @@ def get_settings() -> Settings:
     s.openweather_api_key = s.openweather_api_key.strip().replace('"', '').replace("'", "")
     
     if s.openweather_api_key:
-        print(f"✅ GIGSHIELD Intelligence: OpenWeather API Key Recognized! ({s.openweather_api_key[:4]}****)")
+        print(f"✅ Seguro Partner Intelligence: OpenWeather API Key Recognized! ({s.openweather_api_key[:4]}****)")
     else:
-        print("🚨 GIGSHIELD Warning: No OpenWeather API Key detected in .env")
+        print("🚨 Seguro Partner Warning: No OpenWeather API Key detected in .env")
     return s
 
 settings = get_settings()

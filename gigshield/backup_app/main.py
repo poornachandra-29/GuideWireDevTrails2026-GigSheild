@@ -5,7 +5,7 @@ from config.settings import settings
 from app.database import engine, Base
 
 app = FastAPI(
-    title="GigShield API",
+    title="Seguro Partner API",
     description="Parametric Income Protection for Delivery Partners",
     version="1.0.0"
 )
@@ -33,4 +33,4 @@ app.include_router(admin.router, prefix="/admin", tags=["Admin"])
 
 @app.get("/health")
 def health_check():
-    return {"status": "ok", "service": "GigShield API"}
+    return {"status": "ok", "service": "Seguro Partner API"}

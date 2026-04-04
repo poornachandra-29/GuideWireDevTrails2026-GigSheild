@@ -3,7 +3,7 @@ from config.settings import settings
 
 # If Redis isn't running on the laptop, fallback to SQLAlchemy sync execution for dev
 # This is a defensive override given the user's constraints about environment!
-celery_app = Celery("gigshield")
+celery_app = Celery("Seguro Partner")
 
 try:
     import redis
